@@ -14,6 +14,9 @@ There seems to be a negative correlation on the success rate as the campaign goa
 The main challenge I faced while doing this project trying to look into what the data was telling me and drawing my own conclusions as what it meant for my client specifically. I had to really think outsode the box to predict what the best course of action was given the data I was presented. I asked myself questions like: "What variables are the most relevent to my client?" and "What actions could she take to best put my analysis good use?"
 ## Results
 -Launching a kickstarter near the holidays is a bad idea and a springtime launch will most likely see more success.
+
 -Kickstarters tend to get funded more often if they ask for less money.
+
 -Data on campaigns with goals higher than $25,000 seems to be scarce. Therefore, the conclusions drawn about these campaigns would be much less reliable.
+
 -A graph comparing the average donation of successful campaigns vs failed ones could be insightful in deciding what income bracket to target with our kickstarter
